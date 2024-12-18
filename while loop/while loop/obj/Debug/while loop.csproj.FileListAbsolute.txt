@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\while loop\while loop\bin\Debug\while loop.exe.config
+C:\Users\LENOVO\source\repos\while loop\while loop\bin\Debug\while loop.exe
+C:\Users\LENOVO\source\repos\while loop\while loop\bin\Debug\while loop.pdb
+C:\Users\LENOVO\source\repos\while loop\while loop\obj\Debug\while loop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\while loop\while loop\obj\Debug\while loop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\while loop\while loop\obj\Debug\while loop.exe
+C:\Users\LENOVO\source\repos\while loop\while loop\obj\Debug\while loop.pdb
