@@ -93,12 +93,12 @@
         <tr>
             <td><a href="#about">About</a></td>        
             <td><a href="#how-to-use-this-project">Getting started</td>
+            <td><a href="#contributors">Contributors</a></td>
             <!--<td><a href="#demo">Demo</a></td>-->
             <!--<td><a href="#project-roadmap--">Project Roadmap</a></td>-->
             <!--<td><a href="#documentation">Documentation</a></td>-->
         </tr>
         <tr>
-            <td><a href="#contributors">Contributors</a></td>
             <!--<td><a href="#acknowledgments">Acknowledgments</a></td>-->
             <td><a href="#feedback">Feedback</a></td>
             <td><a href="#contact">Contact</a></td>
