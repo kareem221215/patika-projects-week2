@@ -161,6 +161,7 @@
 -->
 
 ## Contact<!-- Required -->
+Reach me via email: [kareem.s.sleman@gmail.com](mailto:kareem.s.sleman@gmail.com)
 <!-- 
 * add your email and contact info here
 * 
