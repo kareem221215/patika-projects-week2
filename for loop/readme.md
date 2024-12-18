@@ -97,7 +97,7 @@ This project demonstrates the use of basic loops in C#. It includes several for 
 
 
 <dev align="center">
-<table align="center">
+<!--<table align="center">
         <tr>
             <td><a href="#about style="text-decoration: none;">About</a></td>        
             <td><a href="#how-to-use-this-project style="text-decoration: none;">Getting started</td>
@@ -105,19 +105,19 @@ This project demonstrates the use of basic loops in C#. It includes several for 
             <!--<td><a href="#demo style="text-decoration: none;">Demo</a></td>-->
             <!--<td><a href="#project-roadmap-- style="text-decoration: none;">Project Roadmap</a></td>-->
             <!--<td><a href="#documentation style="text-decoration: none;">Documentation</a></td>-->
-        </tr>
+        <!--</tr> 
         <tr>
             <!--<td><a href="#acknowledgments">Acknowledgments</a></td>-->
-            <td><a href="#feedback style="text-decoration: none;">Feedback</a></td>
+          <!--  <td><a href="#feedback style="text-decoration: none;">Feedback</a></td>
             <td><a href="#contact style="text-decoration: none;">Contact</a></td>
-            <td><a href="#license style="text-decoration: none;">License</a></td>
-        </tr>
-</table>
-</dev>
+            <td><a href="#license style="text-decoration: none;">License</a></td> -->
+      <!--  </tr>-->
+<!--</table>
+</dev> -->
 
 
 <!-- - Use this html element to create a back to top button. -->
-<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
+<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p> -->
 
 
 <!--## Project Roadmap <!-- Optional --> <!-- add learning_Rs-->
