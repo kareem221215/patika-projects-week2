@@ -52,7 +52,7 @@
 
 
 ## About<!-- Required -->
-This is the first project on the second week of Patika+ bootcamp
+This is the first project on the second week of Patika+ bootcamp.
 This project demonstrates the use of basic loops in C#. It includes several for loop examples that showcase different types of iterations and operations. 
 <!-- 
 * information about the project 
