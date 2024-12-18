@@ -174,7 +174,7 @@
 * 
 * check this website for an easy reference https://choosealicense.com/)
 -->
-- [MIT License](/patika-projects-week2/blob/main/LICENSE.txt)
+- [MIT License](/patika-projects-week2/LICENSE.txt)
 
 <!-- - Use this html element to create a back to top button. -->
 <p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
