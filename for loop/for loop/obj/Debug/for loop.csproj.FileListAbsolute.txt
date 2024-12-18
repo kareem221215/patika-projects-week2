@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\for loop\for loop\bin\Debug\for loop.exe.config
+C:\Users\LENOVO\source\repos\for loop\for loop\bin\Debug\for loop.exe
+C:\Users\LENOVO\source\repos\for loop\for loop\bin\Debug\for loop.pdb
+C:\Users\LENOVO\source\repos\for loop\for loop\obj\Debug\for loop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\for loop\for loop\obj\Debug\for loop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\for loop\for loop\obj\Debug\for loop.exe
+C:\Users\LENOVO\source\repos\for loop\for loop\obj\Debug\for loop.pdb
