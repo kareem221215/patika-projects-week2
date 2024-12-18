@@ -32,7 +32,7 @@
 -->
 <div align="center">
     <a href="kareem221215" target="_blank">
-        <img src="https://user-images.githubusercontent.com/59213365/198116794-365cd9b5-e705-4111-a249-85ed713b9c87.jpg" 
+        <img src=https://cdn.prod.website-files.com/6097e0eca1e875de53031ff6/6241a5ec363584013b7b1857_Patika%20logo%20(2).png 
         alt="Logo" height="300" width="auto">
     </a>
 </div>
