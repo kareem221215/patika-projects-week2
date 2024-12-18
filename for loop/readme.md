@@ -31,7 +31,7 @@
 * Insert an image URL in the <img> "src" attribute bellow. (line-26)
 -->
 <div align="center">
-    <a href="kareem221215" target="_blank"><img src="https://user-images.githubusercontent.com/59213365/198116794-365cd9b5-e705-4111-a249-85ed713b9c87.jpg" 
+    <a href="kareem221215" target="_blank"><img src="https://github.com/kareem221215/patika-projects-week2/blob/main/oie_CfqoiAfbCyTJ.png" 
         alt="Logo" height="300" width="auto">
     </a>
 </div>
