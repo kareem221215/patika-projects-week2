@@ -70,7 +70,7 @@
 -
 
 
-## Demo<!-- Required -->
+<!--## Demo<!-- Required -->
 <!-- 
 * You can add a demo here GH supports images/ GIFs/videos 
 * 
@@ -93,13 +93,13 @@
         <tr>
             <td><a href="#about">About</a></td>        
             <td><a href="#how-to-use-this-project">Getting started</td>
-            <td><a href="#demo">Demo</a></td>
-            <td><a href="#project-roadmap--">Project Roadmap</a></td>
-            <td><a href="#documentation">Documentation</a></td>
+            <!--<td><a href="#demo">Demo</a></td>-->
+            <!--<td><a href="#project-roadmap--">Project Roadmap</a></td>-->
+            <!--<td><a href="#documentation">Documentation</a></td>-->
         </tr>
         <tr>
             <td><a href="#contributors">Contributors</a></td>
-            <td><a href="#acknowledgments">Acknowledgments</a></td>
+            <!--<td><a href="#acknowledgments">Acknowledgments</a></td>-->
             <td><a href="#feedback">Feedback</a></td>
             <td><a href="#contact">Contact</a></td>
             <td><a href="#license">License</a></td>
@@ -112,7 +112,7 @@
 <p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
 
 
-## Project Roadmap <!-- Optional --> <!-- add learning_Rs-->
+<!--## Project Roadmap <!-- Optional --> <!-- add learning_Rs-->
 <!-- 
 * Add this section in case the project has different phases
 * 
@@ -123,7 +123,7 @@
 
 
 
-## Documentation<!-- Optional -->
+<!--## Documentation<!-- Optional -->
 <!-- 
 * You may add any documentation or Wikis here
 * 
@@ -137,7 +137,9 @@
 * 
 * Generate github contributors Image here https://contrib.rocks/preview?repo=angular%2Fangular-ja
 -->
-
+<a href="https://github.com/kareem221215/patika-projects-week2/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kareem221215/patika-projects-week2" />
+</a>
 
 ## Acknowledgments<!-- Optional -->
 <!-- 
