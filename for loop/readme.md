@@ -31,7 +31,7 @@
 * Insert an image URL in the <img> "src" attribute bellow. (line-26)
 -->
 <div align="center">
-    <a href="your_github_user_name" target="_blank">
+    <a href="kareem221215" target="_blank">
         <img src="https://user-images.githubusercontent.com/59213365/198116794-365cd9b5-e705-4111-a249-85ed713b9c87.jpg" 
         alt="Logo" height="300" width="auto">
     </a>
@@ -45,7 +45,7 @@
 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Patika-Bootcamp-Projects!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=3000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Patika-Bootcamp-Projects!">
 </div>
 
 
