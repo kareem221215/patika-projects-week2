@@ -141,7 +141,7 @@
   <img src="https://contrib.rocks/image?repo=kareem221215/patika-projects-week2" />
 </a>
 
-## Acknowledgments<!-- Optional -->
+<!--## Acknowledgments<!-- Optional -->
 <!-- 
 * Credit where it's do 
 * 
@@ -150,7 +150,7 @@
 
 
 <!-- - Use this html element to create a back to top button. -->
-<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
+<!--<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>-->
 
 
 ## Feedback<!-- Required -->
@@ -174,7 +174,7 @@
 * 
 * check this website for an easy reference https://choosealicense.com/)
 -->
-
+- [MIT License](./LICENSE.txt)
 
 <!-- - Use this html element to create a back to top button. -->
 <p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
