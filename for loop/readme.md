@@ -47,7 +47,7 @@
 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=3000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Patika-Bootcamp-Projects!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=3000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Patika-Bootcamp-Projects!&color=ffbf5e">
 </div>
 
 
