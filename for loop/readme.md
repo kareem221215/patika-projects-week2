@@ -159,7 +159,7 @@
 * 
 * Also it's common to add some PR guidance.
 -->
-
+<summary>Contact Me 📨</summary>
 ## Contact<!-- Required -->
 Reach me via email: [kareem.s.sleman@gmail.com](mailto:kareem.s.sleman@gmail.com)
 <!-- 
