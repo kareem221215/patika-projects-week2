@@ -161,7 +161,7 @@
 -->
 
 
-> If you have any suggestions, ideas, or spot any bugs, feel free to open an issue on this repository [Create an Issue] (https://github.com/kareem221215/patika-projects-week2/issues).
+> If you have any suggestions, ideas, or spot any bugs, feel free to open an issue on this repository [Create an Issue](https://github.com/kareem221215/patika-projects-week2/issues).
 - Use the tag **"Correction"** for bugs or typos.
 - If you want to share any ideas to help make this project better, use the tag **"Enhancement"**.
 <details>
