@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\project 5\project 5\bin\Debug\project 5.exe.config
+C:\Users\LENOVO\source\repos\project 5\project 5\bin\Debug\project 5.exe
+C:\Users\LENOVO\source\repos\project 5\project 5\bin\Debug\project 5.pdb
+C:\Users\LENOVO\source\repos\project 5\project 5\obj\Debug\project 5.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\project 5\project 5\obj\Debug\project 5.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\project 5\project 5\obj\Debug\project 5.exe
+C:\Users\LENOVO\source\repos\project 5\project 5\obj\Debug\project 5.pdb
