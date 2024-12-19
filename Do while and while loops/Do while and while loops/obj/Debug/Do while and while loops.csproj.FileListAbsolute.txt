@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Do while and while loops\Do while and while loops\bin\Debug\Do while and while loops.exe.config
+C:\Users\LENOVO\source\repos\Do while and while loops\Do while and while loops\bin\Debug\Do while and while loops.exe
+C:\Users\LENOVO\source\repos\Do while and while loops\Do while and while loops\bin\Debug\Do while and while loops.pdb
+C:\Users\LENOVO\source\repos\Do while and while loops\Do while and while loops\obj\Debug\Do while and while loops.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Do while and while loops\Do while and while loops\obj\Debug\Do while and while loops.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Do while and while loops\Do while and while loops\obj\Debug\Do while and while loops.exe
+C:\Users\LENOVO\source\repos\Do while and while loops\Do while and while loops\obj\Debug\Do while and while loops.pdb
