@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace project_5
 {
@@ -21,8 +21,10 @@ namespace project_5
                 int trip_cost = 0; // Variable to store the cost of the trip (travel cost)
 
                 // While loop to validate the vacation destination
-                while (!validinput)
+                do
                 {
+                    Console.WriteLine("Choose your vacation place: Bodrum, Marmaris, Çeşme");
+                    choose_place = Console.ReadLine().ToLower();
                     switch (choose_place) // Check the user's choice for the destination
                     {
                         case "bodrum":
@@ -47,7 +49,7 @@ namespace project_5
                             Console.WriteLine("Error: Please choose from one of the three places."); // Handle invalid input
                             break;
                     }
-                }
+                } while (!validinput);
 
                 // Prompt the user to enter how many people are going
                 Console.WriteLine("How many people are going?");
